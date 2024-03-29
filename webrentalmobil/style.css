@@ -1,0 +1,61 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+body{
+  margin: 10px;
+  background-color: #e8f4ff;
+}
+.welc {
+  font-size: xx-large;
+  margin: 9rem;
+  font-weight: 700;
+}
+.perkweb{
+    margin: 15px;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-weight: 400;
+}
+.perkweb button{
+  margin-left: 2rem;
+  margin: 1rem;
+}
+.perkweb img{
+  height: 250px;
+  width: 500px;
+  border-radius: 15px;
+  margin: 2rem;
+}
+.teamer{
+  font-size: xx-large;
+  margin: 4rem;
+  margin-left: 15rem;
+  font-weight: 700;
+}
+.centered-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ojan,
+.bani {
+  margin: 3rem;
+  font-weight: 400;
+  box-shadow: 7px;
+}
+
+.cardcontainermobil{
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem;
+}
+.mkl{
+  font-size: xx-large;
+  margin-left: 4rem;
+  font-weight: 700;
+}
